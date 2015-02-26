@@ -5665,3 +5665,7 @@ th.hide-for-touch {
   overflow: hidden; }
   .head-pic img {
     margin-top: -294px; }
+
+li.done {
+  text-decoration: line-through;
+  color: #888; }
