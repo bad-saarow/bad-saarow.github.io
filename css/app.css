@@ -5669,3 +5669,6 @@ th.hide-for-touch {
 li.done {
   text-decoration: line-through;
   color: #888; }
+
+iframe.fix-width {
+  width: 100% !important; }
