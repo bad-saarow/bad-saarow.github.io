@@ -5660,12 +5660,6 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 
-.medium .head-pic {
-  height: 260px;
-  overflow: hidden; }
-  .medium .head-pic img {
-    margin-top: -294px; }
-
 li.done {
   text-decoration: line-through;
   color: #888; }
